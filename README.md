@@ -1,0 +1,1 @@
+This repo contains dataset used for training the model (prediction for harvest day using Regression Model & YOLO for nutrient deficiency detection), logs that the Raspberry Pi captures and scripts for deployment.
