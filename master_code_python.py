@@ -41,8 +41,8 @@ except Exception as e:
 # 2. CONSTANTS, GAINS & SETUP
 # =======================================================================
 THINGSBOARD_HOST = '127.0.0.1'
-ACCESS_TOKEN = 'vfgdHwzokevKwwxzBNsi'
-LOCAL_LOG_FILE = "hydroponic_control_log2.csv"
+ACCESS_TOKEN = 'thingsboard key id'
+LOCAL_LOG_FILE = "final_log.csv"
 PLANTING_DATE_FILE = 'planting_date.txt'
 
 
